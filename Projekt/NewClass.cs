@@ -6,5 +6,9 @@ namespace Projekt
 {
     class NewClass
     {
+        private void testMethod()
+        {
+
+        }
     }
 }
