@@ -6,5 +6,6 @@ namespace Projekt
 {
     class NewClass
     {
+        public static void konflikt() {}
     }
 }
